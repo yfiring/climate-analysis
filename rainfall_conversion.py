@@ -9,7 +9,8 @@ def inches_to_mm(inches):
         inches: rainfall in inches
     
     Returns: 
-        rainfall in mm
+        rainfall in mm 
+        
     """
     mm = inches * 25.4
     return mm
